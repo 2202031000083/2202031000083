@@ -1,0 +1,84 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 93.5rem;
+}.frame-12-Wha {
+  box-sizing: border-box;
+  padding: 3.8rem 3.4rem 97.6rem 4.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #beb7b7;
+}
+.frame-12-Wha .auto-group-2fmn-eHz {
+  margin-bottom: 7.4rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-12-Wha .auto-group-2fmn-eHz .auto-group-ych2-CaQ {
+  margin: 10rem 10.4rem 0rem 0rem;
+  width: 62.4rem;
+  height: 13.1rem;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f71919;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.frame-12-Wha .auto-group-2fmn-eHz .auto-group-mmvc-Foa {
+  margin-bottom: 10.4rem;
+  box-sizing: border-box;
+  padding: 6.3rem 2.2rem 6.4rem 2.5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-13.png');
+  flex-shrink: 0;
+}
+.frame-12-Wha .auto-group-2fmn-eHz .auto-group-mmvc-Foa .arrow-8-nYc {
+  width: 8.4rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-12-Wha .auto-group-xwhi-8Ma {
+  width: 62.4rem;
+  height: 13.1rem;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f71919;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
